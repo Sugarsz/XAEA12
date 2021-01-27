@@ -50,7 +50,7 @@ export default function Home() {
           </div>
         </div>
         <div class="sombra transition duration-200 ease-out w-64 h-128 rounded-xl bg-black bg-opacity-60">
-          <img class="p-8 rounded-full h-64 w-64 object-cover"src="https://static.wikia.nocookie.net/shingekinokyojin/images/5/56/Bertholdt_Hoover_%28Anime%29_character_image.png/revision/latest?cb=20190513182108" alt="pedro"/>
+          <img class="p-8 rounded-full h-64 w-64 object-cover"src="https://avatars.githubusercontent.com/u/26889563?s=460&u=46d6633605a4c7601c69a79a95ba119aa8f0d0ca&v=4" alt="pedro"/>
           <div class="px-4 pb-4 leading-7 text-center text-white">
             <h1 class="font-bold text-xl nomesintegrantes">frontedu</h1>
             <p class="bloom-brabo">Contabilidade e UX Design</p>
@@ -83,7 +83,7 @@ export default function Home() {
           </div>
         </div>
         <div class="sombra transition duration-200 ease-out w-64 h-128 rounded-xl bg-black bg-opacity-60">
-          <img class="p-8 rounded-full h-64 w-64 object-cover"src="https://static.wikia.nocookie.net/shingekinokyojin/images/5/56/Bertholdt_Hoover_%28Anime%29_character_image.png/revision/latest?cb=20190513182108" alt="pedro"/>
+          <img class="p-8 rounded-full h-64 w-64 object-cover"src="https://avatars.githubusercontent.com/u/26889563?s=460&u=46d6633605a4c7601c69a79a95ba119aa8f0d0ca&v=4" alt="pedro"/>
           <div class="px-4 pb-4 leading-7 text-center text-white">
             <h1 class="font-bold text-xl nomesintegrantes">frontedu</h1>
             <p class="bloom-brabo">Contabilidade e UX Design</p>
