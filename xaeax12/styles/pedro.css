@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+
+*{
+        -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
+
+.sombra:hover {
+    box-shadow: 0 0 10px 6px rgba(43, 81, 130, 0.3);
+}
+
+* {
+    font-family: 'Press Start 2P';
+}
+
+.pedrofoda{
+    text-shadow: 2px 2px 1px white; 
+}
+
+.botoes {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+.botoes .botao {
+    display: inline-block;
+    height: 64px;
+    width: 64px;
+    overflow: hidden;
+    cursor: pointer;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.5);
+    background-color: black;
+    border-radius: 50px;
+    margin: 0 5px;
+    transition: all 0.1s ease-out;
+}
+
+.botoes .botao:hover {
+    background-color: #181b29;
+}
+.botoes .botao .icone{
+    display: inline-block;
+    text-align: center;
+    box-sizing: border-box;
+    width: 64px;
+    height: 64px;
+    line-height: 64px;
+}
+.botoes .botao .icone a{
+    font-size: 32px;
+    line-height: 70px;
+}
+h3{
+    text-shadow: 1px 1px 1px white; 
+}
+
+.fa-facebook{
+    color: #4267B2;
+}
+.fa-twitter {
+    color: #1DA1F2;
+}
+.fa-instagram {
+    color: #E1306C;
+}
+.fa-whatsapp {
+    color: #4AC959;
+}
