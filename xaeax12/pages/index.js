@@ -73,10 +73,10 @@ export default function Home() {
     <div class="flex m-8 justify-center space-x-8">
         <div class="w-256 h-128 rounded-xl bg-black bg-opacity-60">
           <div class="flex inline-block px-4 pt-4 items-center">
-            <img class="p-2 rounded-full h-16 w-16 text-left object-cover"src="https://avatars.githubusercontent.com/u/25137901?s=460&u=878b23db5d61fc46eca1113bc340a6837e24f47b&v=4" alt="pedro"/>
+            <img class="p-2 rounded-full h-16 w-16 text-left object-cover"src="https://wallpaperaccess.com/full/1099445.png" alt="pedro"/>
             <h1 class="font-bold text-white px-4 text-red-500">Smezzy</h1>
           </div>
-          <p class="text-white pl-24">Esse com certeza é um dos melhores hentais ja feitos</p>
+          <p class="text-white pl-24">Esse com certeza é um dos melhores animes ja feitos</p>
         <img class="rounded h-96 w-auto object-cover relative mx-16 my-6 mb-14" src="https://i.imgur.com/LQrC8Tg.png"></img>
         </div>
     </div>
