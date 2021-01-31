@@ -77,7 +77,7 @@ export default function Home() {
             <h1 class="font-bold text-white px-4 text-red-500">Smezzy</h1>
           </div>
           <p class="text-white pl-24">Esse com certeza é um dos melhores animes ja feitos</p>
-        <img class="rounded h-96 w-auto object-cover relative mx-16 my-6 mb-14" src="ttps://wallpaperaccess.com/full/1099445.png"></img>
+        <img class="rounded h-96 w-auto object-cover relative mx-16 my-6 mb-14" src="https://wallpaperaccess.com/full/1099445.png"></img>
         </div>
     </div>
     <div class="flex m-8 justify-center space-x-8">
